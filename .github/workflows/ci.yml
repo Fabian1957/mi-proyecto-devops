@@ -23,4 +23,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: usuario/mi-web:latest
+        tags: fabianalmada/mi-web:latest
